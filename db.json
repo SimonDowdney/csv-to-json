@@ -8,7 +8,8 @@
         { "id": 123, "name": "John Doe" },
         { "id": 456, "name": "Alison Craus" },
         { "id": 4, "name": "Bag Pus" },
-        { "id": 5, "name": "Bus pass" }
+        { "id": 5, "name": "Bus pass" },
+        { "id": 6, "name": "Barry Shrank-crank" }
     ],
     "comment": [
         { "id": 987, "post_id": 1, "body": "Consectetur adipiscing elit", "user_id": 123 },
