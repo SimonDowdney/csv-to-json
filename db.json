@@ -1,0 +1,19 @@
+{
+    "post": [
+        { "id": 1, "title": "Lorem Ipsum", "views": 254, "user_id": 123 },
+        { "id": 2, "title": "Sic Dolor amet", "views": 65, "user_id": 456 },
+        { "id": 3, "title": "Amazing new tech", "views": 650, "user_id": 4 }
+    ],
+    "user": [
+        { "id": 123, "name": "John Doe" },
+        { "id": 456, "name": "Alison Craus" },
+        { "id": 4, "name": "Bag Pus" },
+        { "id": 5, "name": "Bus pass" }
+    ],
+    "comment": [
+        { "id": 987, "post_id": 1, "body": "Consectetur adipiscing elit", "user_id": 123 },
+        { "id": 995, "post_id": 2, "body": "Nam molestie pellentesque dui", "user_id": 456 },
+        { "id": 999, "post_id": 1, "body": "quid agis", "user_id": 456 },
+        { "id": 1000, "post_id": 3, "body": "Oh my golly gosh", "user_id": 456 }
+    ]
+}
